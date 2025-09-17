@@ -1,6 +1,4 @@
-Flask
+tensorflow==2.13.0
+streamlit
+Pillow
 numpy
-pillow
-matplotlib
-seaborn
-tensorflow
